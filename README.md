@@ -32,7 +32,7 @@
 </a>
   
 <a href="mailto:fabianorr87@hotmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=maildotru" alt="email"/>
+  <img align="center" src="https://img.shields.io/badge/-fabianorr87@hotmail.com-05122A?style=flat&logo=maildotru" alt="email"/>
 </a>
 </p>
 
